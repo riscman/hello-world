@@ -14,5 +14,8 @@ which appears when you are in edit mode.
 I chose to commit directly to the main branch
 but there was a chance to create a new branch 
 for this commit. do it this time.
+Did that - created a Patch file then 
+did a Pull request then merged it back into main
+then deleted the patch file
 
 
