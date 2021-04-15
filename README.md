@@ -9,6 +9,10 @@ my Python User Guide but need to understand
 more how this whole thing works.
 The only way to do this is to keep using it!
 
-that worked by pressing the big commit button below
+that worked by pressing the big commit button 
+which appears when you are in edit mode.
+I chose to commit directly to the main branch
+but there was a chance to create a new branch 
+for this commit. do it this time.
 
 
