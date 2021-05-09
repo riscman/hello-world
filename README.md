@@ -18,4 +18,9 @@ Did that - created a Patch file then
 did a Pull request then merged it back into main
 then deleted the patch file
 
-
+new entruy after 24 days
+could not log onto github on pi400 cos 
+sign in prompt not showing. bug in chrome 
+browser. not showing horizontal scroll bar
+reduce zoom to 90% and all of window appears
+otherwise it chops off rhs.
