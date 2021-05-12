@@ -25,6 +25,9 @@ browser. not showing horizontal scroll bar
 reduce zoom to 90% and all of window appears
 otherwise it chops off rhs.
 
+
 This section is being added via a cloned rep
 on pi400 using command line interface and 
 nano editor.
+
+new section added on pi400 command line 
