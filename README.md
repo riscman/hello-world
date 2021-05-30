@@ -36,4 +36,4 @@ new section added on pi400 command line
 Another new section added on pi400 23/5/21
 using nano editor. 
 
-A new sction added by cgb using vim
+A new section added by cgb using vim
