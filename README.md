@@ -39,3 +39,5 @@ using nano editor.
 A new section added by cgb using vim
 
 new line added june 4 after long gap
+
+This line is being added using Safari on the mac mini
