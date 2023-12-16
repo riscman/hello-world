@@ -41,3 +41,13 @@ A new section added by cgb using vim
 new line added june 4 after long gap
 
 This line is being added using Safari on the mac mini
+Using Safari again to make a change. One thing I'm
+not clear about is why, or when so I need to clone a repo
+onto a local machine. After it seems to possible to change
+stuff without leaving the browser.
+Is it a code thing? you cant really test code without 
+running it.
+
+
+
+
