@@ -1,4 +1,4 @@
 # python hello world
-print("Hello World")
+print(f"Hello World")
 #
 
