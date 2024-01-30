@@ -48,6 +48,14 @@ stuff without leaving the browser.
 Is it a code thing? you cant really test code without 
 running it.
 
+2024 January 30 I'm back!
+This time using mac and web interface again.
+I intend to clone this repository onto RISC OS and test
+using the new Git client from ROOL.
+
+
+
+
 
 
 
