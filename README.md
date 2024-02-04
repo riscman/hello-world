@@ -18,7 +18,7 @@ Did that - created a Patch file then
 did a Pull request then merged it back into main
 then deleted the patch file
 
-new entruy after 24 days
+### new entry after 24 days
 could not log onto github on pi400 cos 
 sign in prompt not showing. bug in chrome 
 browser. not showing horizontal scroll bar
@@ -27,20 +27,20 @@ otherwise it chops off rhs.
 
 
 
-This section is being added via a cloned rep
+### This section is being added via a cloned rep
 on pi400 using command line interface and 
 nano editor.
 
-new section added on pi400 command line 
+### new section added on pi400 command line 
 
 Another new section added on pi400 23/5/21
 using nano editor. 
 
-A new section added by cgb using vim
+### A new section added by cgb using vim
 
 new line added june 4 after long gap
 
-This line is being added using Safari on the mac mini
+### This line is being added using Safari on the mac mini
 Using Safari again to make a change. One thing I'm
 not clear about is why, or when so I need to clone a repo
 onto a local machine. After it seems to possible to change
@@ -48,10 +48,12 @@ stuff without leaving the browser.
 Is it a code thing? you cant really test code without 
 running it.
 
-2024 January 30 I'm back!
+### 2024 January 30 I'm back!
 This time using mac and web interface again.
 I intend to clone this repository onto RISC OS and test
 using the new Git client from ROOL.
+
+### adding some markdown tags 24/02/04
 
 
 
